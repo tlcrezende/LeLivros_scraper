@@ -62,7 +62,7 @@ class Scraper
   end
   p output.count 
 
-  sleep 10
+  sleep 11
 
 
 end
